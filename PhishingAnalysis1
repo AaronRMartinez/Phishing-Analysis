@@ -1,0 +1,26 @@
+### Phishing Analysis 
+
+## Scenario
+
+A user has received a phishing email and forwarded it to the SOC. Can you investigate the email and attachment to collect useful artifacts? 
+
+## Tools Used
+
+- Text 
+- Editor 
+- Mozilla Thunderbird 
+- URL2PNG 
+- WHOis 
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blue Team Labs Achievement</title>
+</head>
+<body>
+    <h1>Blue Team Labs Achievement</h1>
+    <p>Check out my latest achievement on Blue Team Labs:</p>
+    <a href="https://blueteamlabs.online/achievement/share/challenge/76960/16" target="_blank">View Achievement</a>
+</body>
+</html>
