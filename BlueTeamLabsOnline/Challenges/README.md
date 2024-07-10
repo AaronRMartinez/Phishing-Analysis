@@ -1,4 +1,4 @@
-# BTLO Challenges
+# BTLO Phishing Analysis Challenges
 
 Completed **Blue Team Labs Online** challenges pertaining to phishing analysis.
 
